@@ -1,0 +1,7 @@
+1,2,3,4
+X,O,O,false
+X,X,O,false
+X,O,X,false
+O,O,X,false
+O,X,X,false
+O,X,O,false
